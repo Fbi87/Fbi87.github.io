@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Verein", "src": "uberuns/Verein/verein.jpg", "href": "" },
+  { "id": 2, "title": "Werde Mitglied", "src": "uberuns/Werde-Mitglied/mitglied_werden.jpg", "href": "" },
+  { "id": 3, "title": "Team", "src": "uberuns/Team/team.jpg", "href": "" },
+  { "id": 4, "title": "Partner", "src": "stp_mini.jpg", "href": "" },
+  { "id": 5, "title": "Offene Stellen", "src": "uberuns/Offene-stellen/offene_stellen.jpg", "href": "" },
+  { "id": 6, "title": "Kontakt", "src": "uberuns/Kontakt/kontakt.jpg", "href": "" }
+]
